@@ -1,0 +1,24 @@
+.background{
+    height: 300px;
+    width: 100%;
+    background: cover;
+    background-image:url('wed.jpg');
+}
+.foot{
+    background-color: orange;
+}
+
+.sticky{
+    position: fixed;
+    width: 100%;
+}
+.ground{
+    
+    font-family: sans-serif;
+    width: 100%;
+    min-height: 70vh;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('wed\ style.jpg');
+    background-size: cover;
+    position: relative;
+    /* background:rgba(0,0,0,0.5); */
+}
